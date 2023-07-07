@@ -7,7 +7,7 @@
   "version": "0.0.0",
   "description": "Test application",
   "main": "main.js",
-  "repository": "https://github.com/KazulVonDrake/TestApp.git",
+  "repository": "https://github.com/KazulVonDrake/Test.git",
   "author": "KazulVonDrake",
   "license": "MIT",
   "private": false,
